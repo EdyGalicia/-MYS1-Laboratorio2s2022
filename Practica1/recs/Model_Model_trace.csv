@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;--;--;--;--;Unable to evaluate status expression for graphic.
-0;--;--;--;--;Referenced definition type 'ModelEntity' does not match executing type 'Model'
+0,00119047619047619;--;--;--;--;An entity's length was changed while traveling on a link
+0,00119047619047619;--;--;--;--;The length of the entity 'DefaultEntity.47' was changed while traveling on the link 'Path4'.
 
